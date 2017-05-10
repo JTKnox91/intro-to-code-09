@@ -26,4 +26,6 @@ html,body{
     color:white;
     background-color:navy;
     border-radius:5px;
+    vertical-align: top;
 }
+
