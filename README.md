@@ -72,7 +72,7 @@ application should turn that information into a new song `object`, and then
 add that song to the playlist.
     > **PRO TIP**: In a live application, this information would be stored in
       a database. However, for our purposes, _local storage_ is good enough.
-      Using _local storage_ (via `Window.localStorage`) is a way for web
+      Using _local storage_ (via `window.localStorage`) is a way for web
       developers to store data in the user's browser for an indefinite amount
       of time - that is, until the user clears their browser cache. You can
       read more about it by following the links below:
